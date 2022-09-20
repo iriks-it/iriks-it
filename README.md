@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iriks-it" alt="iriks-it" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iriks_it" target="blank"><img src="https://img.shields.io/twitter/follow/iriks_it?logo=twitter&style=for-the-badge" alt="iriks_it" /></a> </p>
 
 - 🔭 I’m currently working on [API Docs](https://github.com/IriksIT/API-Docs)
 
