@@ -48,5 +48,6 @@
 
 ---
 ### 🎧 Spotify
+<p>
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
-
+</p>
