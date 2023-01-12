@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Matthijs Iriks</h1>
-<h3 align="center">A passionate backend developer from The Netherlands</h3>
+# Hi there, I'm Matthijs Iriks 👋 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iriks-it&label=Profile%20views&color=ff80ff&style=flat" alt="iriks-it" /> </p>
+[![Website](https://img.shields.io/website?label=iriks-it.nl&style=for-the-badge&url=https%3A%2F%2Firiks-it.nl)](https://iriks-it.nl)
+[![Website](https://img.shields.io/website?label=api.iriks-it.nl&style=for-the-badge&url=https%3A%2F%2Fapi.iriks-it.nl)](https://api.iriks-it.nl)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iriks_it?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Firiks-it&screen_name=iriks_it)
 
+## A passionate backend developer from The Netherlands
+
+
+
+<p align="left">  </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iriks-it" alt="iriks-it" /></a> </p>
 
 
@@ -47,4 +53,8 @@
   <summary>:zap: GitHub Stats</summary>
     <img align="left" src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
     <img align="left" src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" />
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=iriks-it&label=Profile%20views&color=ff80ff&style=flat" alt="iriks-it" />
 </details>
+
+
