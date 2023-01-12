@@ -30,26 +30,29 @@
 
 ### Languages and Tools:
 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://openresty.org/images/logo.png" alt="openresty" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="26" height="26" style="padding-right:10px;"/>
-<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://openresty.org/images/logo.png" alt="openresty" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="26" height="26" style="padding-right:10px;"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="26" height="26" style="padding-right:10px;"/>
+
+<br />
+<br />
 
 ---
 
