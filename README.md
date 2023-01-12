@@ -8,9 +8,6 @@
 
 
 
-<p align="left">  </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iriks-it" alt="iriks-it" /></a> </p>
-
 
 - 🔭 I’m currently working on [API Docs](https://github.com/IriksIT/API-Docs)
 
@@ -26,6 +23,27 @@
 
 - 📄 Know about my experiences [https://iriks-it.nl/about-me/](https://iriks-it.nl/about-me/)
 
+  
+  
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://iriks-it.nl/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://iriks-it.nl/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+  
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iriks_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iriks_it" height="30" width="40" /></a>
@@ -43,7 +61,7 @@
   
 ---
 
-### 🎧 Spotify
+### 🎧 My Spotify
 
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
 
@@ -52,7 +70,17 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
     <img src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
+    &nbsp;&nbsp;
     <img src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" />
+</details>
+
+---
+
+---
+
+<details>
+  <summary>:zap: GitHub Trophies</summary>
+  <img src="https://github-profile-trophy.vercel.app/?username=iriks-it" alt="iriks-it" />
 </details>
 
 ---
