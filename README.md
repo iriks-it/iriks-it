@@ -33,8 +33,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it&" alt="iriks-it" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it&" alt="iriks-it" /></p
+  
 ---
+
 ### 🎧 Spotify
 
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
@@ -44,7 +46,5 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
     <img align="left" src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
-    <img align="right" src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" />
+    <img align="left" src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" />
 </details>
-
----
