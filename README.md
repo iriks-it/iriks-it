@@ -37,3 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it&" alt="iriks-it" /></p>
 
+[![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
+
