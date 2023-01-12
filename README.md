@@ -33,9 +33,16 @@
 
 <p><img align="left" src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it&" alt="iriks-it" /></p>
+
+---
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+<img align="center" src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
+<!--END_SECTION:activity-->
+</details>
+
 
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
 
