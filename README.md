@@ -14,7 +14,7 @@
 - 📫 How to reach me **github@iriks-it.nl**
 - 📄 Know about my experiences [https://iriks-it.nl/about-me/](https://iriks-it.nl/about-me/)
 
-### Connect with me:
+### ✉ Connect with me:
 
 [![website](./img/globe-light.svg)](https://iriks-it.nl/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://iriks-it.nl/#gh-dark-mode-only)
@@ -28,7 +28,7 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/matthijsiriks#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/matthijsiriks#gh-dark-mode-only)
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26" style="padding-right:10px;"/>
@@ -61,7 +61,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📃 GitHub Stats</summary>
     <img src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
     &nbsp;&nbsp;
     <img src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" />
@@ -70,7 +70,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Trophies</summary>
+  <summary>🏆 GitHub Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=iriks-it" alt="iriks-it" />
 </details>
 
@@ -78,7 +78,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Streak</summary>
+  <summary>🎢 GitHub Streak</summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it" alt="iriks-it" />
 </details>
 
