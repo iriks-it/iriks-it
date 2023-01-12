@@ -34,20 +34,18 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it&" alt="iriks-it" /></p>
+---
+### 🎧 Spotify
+[![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
 
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
-<!--START_SECTION:activity-->
+<!--START_SECTION:stats-->
   <p>
     <img align="left" src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
     <img align="right" src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" />
   </p>
-<!--END_SECTION:activity-->
+<!--END_SECTION:stats-->
 </details>
-
 ---
-### 🎧 Spotify
-<p>
-[![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
-</p>
