@@ -37,12 +37,13 @@
 
 ---
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: GitHub Stats</summary>
 <!--START_SECTION:activity-->
 <img align="center" src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
 <!--END_SECTION:activity-->
 </details>
 
-
+---
+### 🎧 Spotify
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
 
