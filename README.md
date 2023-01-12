@@ -51,13 +51,11 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    <img align="left" src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
-    <img align="left" src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" />
-    
-    
+    <img src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
+    <img src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" />
 </details>
 
 <br />
 <br />
-<img  align="left" src="https://komarev.com/ghpvc/?username=iriks-it&label=Profile%20views&color=ff80ff&style=flat" alt="iriks-it" />
+<img src="https://komarev.com/ghpvc/?username=iriks-it&label=Profile%20views&color=ff80ff&style=flat" alt="iriks-it" />
 
