@@ -65,11 +65,6 @@
   <summary> :zap: Recent Activity </summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9962](https://github.com/nuxt/framework/pull/9962) in [nuxt/framework](https://github.com/nuxt/framework)
-2. 🗣 Commented on [#9946](https://github.com/nuxt/framework/issues/9946) in [nuxt/framework](https://github.com/nuxt/framework)
-3. 💪 Opened PR [#9946](https://github.com/nuxt/framework/pull/9946) in [nuxt/framework](https://github.com/nuxt/framework)
-4. 🗣 Commented on [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
-5. 🗣 Commented on [#1033](https://github.com/t3-oss/create-t3-app/issues/1033) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
 <!--END_SECTION:activity-->
   
 </details>
