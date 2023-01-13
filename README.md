@@ -81,6 +81,8 @@
   <summary> :zap: Recent Activity </summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/iriks-it/test/pull/1) in [iriks-it/test](https://github.com/iriks-it/test)
+2. 💪 Opened PR [#1](https://github.com/iriks-it/test/pull/1) in [iriks-it/test](https://github.com/iriks-it/test)
 <!--END_SECTION:activity-->
   
 </details>
