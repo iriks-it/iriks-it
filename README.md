@@ -70,6 +70,7 @@
   <summary> 📰 Recent Blog Posts </summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Welcome!](https://iriks-it.nl/blog/welcome/)
 <!-- BLOG-POST-LIST:END -->
   ➡️ [more blog posts...](https://iriks-it.nl/)
 </details>
