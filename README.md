@@ -104,7 +104,7 @@
 
 ---
 
-### :diamond_shape_with_a_dot_inside:🗨 Github views
+### :diamond_shape_with_a_dot_inside: Github views
 
 <img src="https://komarev.com/ghpvc/?username=iriks-it&label=Profile%20views&color=ff80ff&style=flat" alt="iriks-it" />
 
