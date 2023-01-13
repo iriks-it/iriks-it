@@ -54,20 +54,14 @@
 <br />
 <br />
 
-### 🎧 My Spotify
+## 🎧Currently listening to
 
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
-
-
-
-
-
-
 
 ---
 
 <details>
-  <summary> 📰 Recent Blog Posts </summary>
+  <summary> :diamond_shape_with_a_dot_inside: Recent Blog Posts </summary>
   
 <!-- BLOG-POST-LIST:START -->
 - [Welcome!](https://iriks-it.nl/blog/welcome/)
@@ -78,7 +72,7 @@
 ---
 
 <details>
-  <summary> :zap: Recent Activity </summary>
+  <summary> :diamond_shape_with_a_dot_inside: Recent Activity </summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/iriks-it/test/pull/1) in [iriks-it/test](https://github.com/iriks-it/test)
@@ -90,28 +84,29 @@
 ---
 
 <details>
-  <summary>📃 GitHub Stats</summary>
-    <img src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
+  <summary> :diamond_shape_with_a_dot_inside: GitHub Stats</summary>
+  ![](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-light-mode-only)
 </details>
 
 ---
 
 <details>
-  <summary>🏆 GitHub Trophies</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=iriks-it" alt="iriks-it" />
+  <summary> :diamond_shape_with_a_dot_inside: GitHub Languages</summary>
+  ![](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </details>
-
 
 ---
 
 <details>
-  <summary>🎢 GitHub Streak</summary>
+  <summary> :diamond_shape_with_a_dot_inside: GitHub Streak</summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it" alt="iriks-it" />
 </details>
 
 ---
 
-### 👁‍🗨 Github views
+### :diamond_shape_with_a_dot_inside:🗨 Github views
 
 <img src="https://komarev.com/ghpvc/?username=iriks-it&label=Profile%20views&color=ff80ff&style=flat" alt="iriks-it" />
 
