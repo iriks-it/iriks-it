@@ -85,16 +85,16 @@
 
 <details>
   <summary> :diamond_shape_with_a_dot_inside: GitHub Stats</summary>  
-  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-dark-mode-only)]()
-  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-light-mode-only)]()
+  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
+  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
 </details>
 
 ---
 
 <details>
   <summary> :diamond_shape_with_a_dot_inside: GitHub Languages</summary>
-  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-dark-mode-only)]()
-  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-light-mode-only)]()
+  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
+  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
 </details>
 
 ---
