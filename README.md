@@ -59,6 +59,21 @@
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
 
 
+
+
+
+
+
+---
+
+<details>
+  <summary> 📰 Recent Blog Posts </summary>
+  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  ➡️ [more blog posts...](https://iriks-it.nl/)
+</details>
+
 ---
 
 <details>
