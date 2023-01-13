@@ -84,17 +84,17 @@
 ---
 
 <details>
-  <summary> :diamond_shape_with_a_dot_inside: GitHub Stats</summary>
-  ![](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  <summary> :diamond_shape_with_a_dot_inside: GitHub Stats</summary>  
+  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-dark-mode-only)]()
+  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-light-mode-only)]()
 </details>
 
 ---
 
 <details>
   <summary> :diamond_shape_with_a_dot_inside: GitHub Languages</summary>
-  ![](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-light-mode-only)
+  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-dark-mode-only)]()
+  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-light-mode-only)]()
 </details>
 
 ---
