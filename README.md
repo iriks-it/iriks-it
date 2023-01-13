@@ -92,15 +92,14 @@
 
 <details>
   <summary> :diamond_shape_with_a_dot_inside: GitHub Languages</summary>
-  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/jstrieb/github-stats)
-  [![website](https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
+  <img src="https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 </details>
 
 ---
 
 <details>
   <summary> :diamond_shape_with_a_dot_inside: GitHub Streak</summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it" alt="iriks-it" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it&theme=dark&hide_border=true&mode=weekly" alt="iriks-it" />
 </details>
 
 ---
