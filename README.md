@@ -58,13 +58,21 @@
 
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
 
+
+---
+
+<details>
+  <summary> :zap: Recent Activity </summary>
+  <!--START_SECTION:activity-->
+  
+  <!--END_SECTION:activity-->
+</details>
+
 ---
 
 <details>
   <summary>📃 GitHub Stats</summary>
     <img src="https://github-readme-stats-iriksit.vercel.app/api?username=iriks-it&show_icons=true&theme=dark#gh-dark-mode-only" alt="iriks-it" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats-iriksit.vercel.app/api/top-langs?username=iriks-it&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="iriks-it" />
 </details>
 
 ---
