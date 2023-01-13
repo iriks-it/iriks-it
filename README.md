@@ -85,7 +85,7 @@
 
 <details>
   <summary> :diamond_shape_with_a_dot_inside: GitHub Stats</summary>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+  <img src="https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 </details>
 
 ---
