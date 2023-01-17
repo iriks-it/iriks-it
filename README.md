@@ -84,6 +84,13 @@
 ---
 
 <details>
+  <summary> :diamond_shape_with_a_dot_inside: GitHub Streak (Public)</summary>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it&theme=dark&hide_border=true&mode=weekly" alt="iriks-it" />
+</details>
+
+---
+
+<details>
   <summary> :diamond_shape_with_a_dot_inside: GitHub Stats (Public and Private)</summary>
   <img src="https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 </details>
@@ -93,13 +100,6 @@
 <details>
   <summary> :diamond_shape_with_a_dot_inside: GitHub Languages (Public and Private)</summary>
   <img src="https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-</details>
-
----
-
-<details>
-  <summary> :diamond_shape_with_a_dot_inside: GitHub Streak (Public)</summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it&theme=dark&hide_border=true&mode=weekly" alt="iriks-it" />
 </details>
 
 ---
