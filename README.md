@@ -72,7 +72,7 @@
 ---
 
 <details>
-  <summary> :diamond_shape_with_a_dot_inside: Recent Activity </summary>
+  <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/iriks-it/test/pull/1) in [iriks-it/test](https://github.com/iriks-it/test)
@@ -84,21 +84,21 @@
 ---
 
 <details>
-  <summary> :diamond_shape_with_a_dot_inside: GitHub Stats</summary>
+  <summary> :diamond_shape_with_a_dot_inside: GitHub Stats (Public and Private)</summary>
   <img src="https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
 </details>
 
 ---
 
 <details>
-  <summary> :diamond_shape_with_a_dot_inside: GitHub Languages</summary>
+  <summary> :diamond_shape_with_a_dot_inside: GitHub Languages (Public and Private)</summary>
   <img src="https://raw.githubusercontent.com/iriks-it/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 </details>
 
 ---
 
 <details>
-  <summary> :diamond_shape_with_a_dot_inside: GitHub Streak</summary>
+  <summary> :diamond_shape_with_a_dot_inside: GitHub Streak (Public)</summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriks-it&theme=dark&hide_border=true&mode=weekly" alt="iriks-it" />
 </details>
 
