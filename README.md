@@ -77,8 +77,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/iriks-it/iriks-it/pull/2) in [iriks-it/iriks-it](https://github.com/iriks-it/iriks-it)
-2. 💪 Opened PR [#2](https://github.com/iriks-it/iriks-it/pull/2) in [iriks-it/iriks-it](https://github.com/iriks-it/iriks-it)
+1. 🎉 Merged PR [#4](https://github.com/iriks-it/iriks-it/pull/4) in [iriks-it/iriks-it](https://github.com/iriks-it/iriks-it)
+2. 💪 Opened PR [#4](https://github.com/iriks-it/iriks-it/pull/4) in [iriks-it/iriks-it](https://github.com/iriks-it/iriks-it)
 <!--END_SECTION:activity-->
   
 </details>
