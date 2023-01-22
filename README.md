@@ -67,6 +67,7 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Blog Posts </summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Introduction](https://iriks-it.nl/information/introduction/)
 <!-- BLOG-POST-LIST:END -->
   ➡️ [more blog posts...](https://iriks-it.nl/)
 </details>
