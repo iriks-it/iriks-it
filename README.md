@@ -77,7 +77,7 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/iriks-it/iriks-it/pull/6) in [iriks-it/iriks-it](https://github.com/iriks-it/iriks-it)
+1. 💪 Opened PR [#519](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/pull/519) in [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
 2. 💪 Opened PR [#6](https://github.com/iriks-it/iriks-it/pull/6) in [iriks-it/iriks-it](https://github.com/iriks-it/iriks-it)
 <!--END_SECTION:activity-->
   
