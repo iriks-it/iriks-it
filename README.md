@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=iriks-it.nl&style=for-the-badge&url=https%3A%2F%2Firiks-it.nl)](https://iriks-it.nl)
 [![Website](https://img.shields.io/website?label=api.iriks-it.nl&style=for-the-badge&url=https%3A%2F%2Fapi.iriks-it.nl)](https://api.iriks-it.nl)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40iriks_it-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Firiks-it&screen_name=iriks_it)
+![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m792835792-1fe18bb54437095e182fdfbe)
+
 
 ## A passionate backend developer from The Netherlands
 
