@@ -81,7 +81,7 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields/pull/21) in [experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields](https://github.com/experius/Magento-2-Module-Experius-ExtraCheckoutAddressFields)
+1. 🗣 Commented on [#2459](https://github.com/Adyen/adyen-magento2/pull/2459#issuecomment-1908011661) in [Adyen/adyen-magento2](https://github.com/Adyen/adyen-magento2)
 2. 💪 Opened PR [#519](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/pull/519) in [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
 <!--END_SECTION:activity-->
   
