@@ -81,8 +81,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.3.6](https://github.com/experius/Magento-2-Module-PageNotFound/releases/tag/1.3.6) in [experius/Magento-2-Module-PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound)
-2. 🎉 Merged PR [#33](https://github.com/experius/Magento-2-Module-PageNotFound/pull/33) in [experius/Magento-2-Module-PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound)
+1. 🗣 Commented on [#746](https://github.com/wardenenv/warden/pull/746#issuecomment-1932026107) in [wardenenv/warden](https://github.com/wardenenv/warden)
+2. 🗣 Commented on [#747](https://github.com/wardenenv/warden/pull/747#issuecomment-1932025795) in [wardenenv/warden](https://github.com/wardenenv/warden)
 <!--END_SECTION:activity-->
   
 </details>
