@@ -81,8 +81,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#746](https://github.com/wardenenv/warden/pull/746#issuecomment-1932026107) in [wardenenv/warden](https://github.com/wardenenv/warden)
-2. 🗣 Commented on [#747](https://github.com/wardenenv/warden/pull/747#issuecomment-1932025795) in [wardenenv/warden](https://github.com/wardenenv/warden)
+1. 🚀 Published release [1.2.3](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads/releases/tag/1.2.3) in [experius/Magento-2-Module-Experius-WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads)
+2. 🔒 Closed issue [#32](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads/issues/32) in [experius/Magento-2-Module-Experius-WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads)
 <!--END_SECTION:activity-->
   
 </details>
