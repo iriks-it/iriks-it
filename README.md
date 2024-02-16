@@ -81,8 +81,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.3](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads/releases/tag/1.2.3) in [experius/Magento-2-Module-Experius-WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads)
-2. 🔒 Closed issue [#32](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads/issues/32) in [experius/Magento-2-Module-Experius-WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads)
+1. 🗣 Commented on [#95](https://github.com/magesuite/magesuite/issues/95#issuecomment-1947946514) in [magesuite/magesuite](https://github.com/magesuite/magesuite)
+2. 🚀 Published release [1.2.3](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads/releases/tag/1.2.3) in [experius/Magento-2-Module-Experius-WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads)
 <!--END_SECTION:activity-->
   
 </details>
