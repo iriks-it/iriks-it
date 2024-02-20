@@ -17,7 +17,7 @@
 - 💬 Ask me about **API's, PHP, DiscordJS**
 - 📫 How to reach me **github@iriks-it.nl**
 - 📄 Know about my experiences [https://iriks-it.nl/about-me/](https://iriks-it.nl/about-me/)
-- 📝 Check out my public gists [here](https://gist.github.com/iriks-it)
+- 📝 Check out my public [gists](https://gist.github.com/iriks-it)
 
 ### ✉ Connect with me:
 
