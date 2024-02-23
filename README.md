@@ -82,8 +82,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/IriksIT/Magento-2-Module-Where-Am-I/releases/tag/1.0.0) in [IriksIT/Magento-2-Module-Where-Am-I](https://github.com/IriksIT/Magento-2-Module-Where-Am-I)
-2. 🗣 Commented on [#95](https://github.com/magesuite/magesuite/issues/95#issuecomment-1947946514) in [magesuite/magesuite](https://github.com/magesuite/magesuite)
+1. 🎉 Merged PR [#2](https://github.com/IriksIT/Magento-2-Module-Where-Am-I/pull/2) in [IriksIT/Magento-2-Module-Where-Am-I](https://github.com/IriksIT/Magento-2-Module-Where-Am-I)
+2. 🚀 Published release [1.0.1](https://github.com/IriksIT/Magento-2-Module-Where-Am-I/releases/tag/1.0.1) in [IriksIT/Magento-2-Module-Where-Am-I](https://github.com/IriksIT/Magento-2-Module-Where-Am-I)
 <!--END_SECTION:activity-->
   
 </details>
