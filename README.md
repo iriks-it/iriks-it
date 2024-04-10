@@ -69,6 +69,7 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Blog Posts </summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Magento 2 module : Where Am I ?](https://iriks-it.nl/magento2/magento-2-module-where-am-i/)
 - [New year, New me?](https://iriks-it.nl/information/new-year-new-me/)
 - [Spotify in your GitHub profile?](https://iriks-it.nl/tutorial/spotify-in-your-github-profile/)
 - [Introduction](https://iriks-it.nl/information/introduction/)
