@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/IriksIT/Magento-2-Module-Where-Am-I/pull/2) in [IriksIT/Magento-2-Module-Where-Am-I](https://github.com/IriksIT/Magento-2-Module-Where-Am-I)
-2. 🚀 Published release [1.0.1](https://github.com/IriksIT/Magento-2-Module-Where-Am-I/releases/tag/1.0.1) in [IriksIT/Magento-2-Module-Where-Am-I](https://github.com/IriksIT/Magento-2-Module-Where-Am-I)
+1. 🚀 Published release [1.2.4](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads/releases/tag/1.2.4) in [experius/Magento-2-Module-Experius-WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads)
+2. 🗣 Commented on [#34](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads/issues/34#issuecomment-2204080213) in [experius/Magento-2-Module-Experius-WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads)
 <!--END_SECTION:activity-->
   
 </details>
