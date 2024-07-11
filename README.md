@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Happy-Horizon/Composer-Patches/pull/3) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
-2. 💪 Opened PR [#3](https://github.com/Happy-Horizon/Composer-Patches/pull/3) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
+1. 💪 Opened PR [#1](https://github.com/experius/Mage2-Module-Experius-AlumioLog/pull/1) in [experius/Mage2-Module-Experius-AlumioLog](https://github.com/experius/Mage2-Module-Experius-AlumioLog)
+2. 🎉 Merged PR [#3](https://github.com/Happy-Horizon/Composer-Patches/pull/3) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
 <!--END_SECTION:activity-->
   
 </details>
