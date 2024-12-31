@@ -83,7 +83,7 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Happy-Horizon/Composer-Patches/pull/4) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
+1. ❗ Opened issue [#197](https://github.com/tomaae/homeassistant-truenas/issues/197) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
 2. 🎉 Merged PR [#42](https://github.com/experius/Magento-2-Module-PageNotFound/pull/42) in [experius/Magento-2-Module-PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound)
 <!--END_SECTION:activity-->
   
