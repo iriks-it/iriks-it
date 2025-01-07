@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#197](https://github.com/tomaae/homeassistant-truenas/issues/197) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
-2. 🎉 Merged PR [#42](https://github.com/experius/Magento-2-Module-PageNotFound/pull/42) in [experius/Magento-2-Module-PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound)
+1. 🗣 Commented on [#197](https://github.com/tomaae/homeassistant-truenas/issues/197#issuecomment-2574018856) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
+2. 🗣 Commented on [#197](https://github.com/tomaae/homeassistant-truenas/issues/197#issuecomment-2573787689) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
 <!--END_SECTION:activity-->
   
 </details>
