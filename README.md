@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/tomaae/homeassistant-truenas/issues/197#issuecomment-2574018856) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
-2. 🗣 Commented on [#197](https://github.com/tomaae/homeassistant-truenas/issues/197#issuecomment-2573787689) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
+1. 🗣 Commented on [#197](https://github.com/tomaae/homeassistant-truenas/issues/197#issuecomment-2580308889) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
+2. 🗣 Commented on [#197](https://github.com/tomaae/homeassistant-truenas/issues/197#issuecomment-2574018856) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
 <!--END_SECTION:activity-->
   
 </details>
