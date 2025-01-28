@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/tomaae/homeassistant-truenas/issues/197#issuecomment-2580308889) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
-2. 🗣 Commented on [#197](https://github.com/tomaae/homeassistant-truenas/issues/197#issuecomment-2574018856) in [tomaae/homeassistant-truenas](https://github.com/tomaae/homeassistant-truenas)
+1. 🚀 Published release [2.1.5](https://github.com/experius/Magento2-Module-Multiple-Website-Store-Code-Url/releases/tag/2.1.5) in [experius/Magento2-Module-Multiple-Website-Store-Code-Url](https://github.com/experius/Magento2-Module-Multiple-Website-Store-Code-Url)
+2. 🎉 Merged PR [#19](https://github.com/experius/Magento2-Module-Multiple-Website-Store-Code-Url/pull/19) in [experius/Magento2-Module-Multiple-Website-Store-Code-Url](https://github.com/experius/Magento2-Module-Multiple-Website-Store-Code-Url)
 <!--END_SECTION:activity-->
   
 </details>
