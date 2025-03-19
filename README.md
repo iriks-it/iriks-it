@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.5](https://github.com/experius/Magento2-Module-Multiple-Website-Store-Code-Url/releases/tag/2.1.5) in [experius/Magento2-Module-Multiple-Website-Store-Code-Url](https://github.com/experius/Magento2-Module-Multiple-Website-Store-Code-Url)
-2. 🎉 Merged PR [#19](https://github.com/experius/Magento2-Module-Multiple-Website-Store-Code-Url/pull/19) in [experius/Magento2-Module-Multiple-Website-Store-Code-Url](https://github.com/experius/Magento2-Module-Multiple-Website-Store-Code-Url)
+1. 🎉 Merged PR [#6](https://github.com/Happy-Horizon/Composer-Patches/pull/6) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
+2. 💪 Opened PR [#6](https://github.com/Happy-Horizon/Composer-Patches/pull/6) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
 <!--END_SECTION:activity-->
   
 </details>
