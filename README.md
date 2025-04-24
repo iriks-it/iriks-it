@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Happy-Horizon/Composer-Patches/pull/6) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
-2. 💪 Opened PR [#6](https://github.com/Happy-Horizon/Composer-Patches/pull/6) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
+1. 🗣 Commented on [#45](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads/issues/45#issuecomment-2824300196) in [experius/Magento-2-Module-Experius-WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads)
+2. 🗣 Commented on [#46](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads/issues/46#issuecomment-2824298773) in [experius/Magento-2-Module-Experius-WysiwygDownloads](https://github.com/experius/Magento-2-Module-Experius-WysiwygDownloads)
 <!--END_SECTION:activity-->
   
 </details>
