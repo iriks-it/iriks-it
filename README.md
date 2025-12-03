@@ -83,7 +83,7 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Happy-Horizon/Composer-Patches/pull/7) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
+1. ❌ Merged PR [#10](undefined) in [Web200/magento-elasticsuite-autocomplete](https://github.com/Web200/magento-elasticsuite-autocomplete)
 2. 💪 Opened PR [#7](https://github.com/Happy-Horizon/Composer-Patches/pull/7) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
 <!--END_SECTION:activity-->
   
