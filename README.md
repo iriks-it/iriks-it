@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2663](https://github.com/openrazer/openrazer/pull/2663#issuecomment-4669988226) in [openrazer/openrazer](https://github.com/openrazer/openrazer)
-2. 💪 Opened PR [#7](https://github.com/Happy-Horizon/Composer-Patches/pull/7) in [Happy-Horizon/Composer-Patches](https://github.com/Happy-Horizon/Composer-Patches)
+1. 🚀 Published release [v0.0.1](https://github.com/IriksIT/CarsHub-Composer-Connector/releases/tag/v0.0.1) in [IriksIT/CarsHub-Composer-Connector](https://github.com/IriksIT/CarsHub-Composer-Connector)
+2. 🗣 Commented on [#2663](https://github.com/openrazer/openrazer/pull/2663#issuecomment-4669988226) in [openrazer/openrazer](https://github.com/openrazer/openrazer)
 <!--END_SECTION:activity-->
   
 </details>
