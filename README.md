@@ -61,7 +61,7 @@
 
 ### 🎧 Spotify
 
-[![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
+[![Spotify](https://now-playing-iriksit.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333&show_status=true)](https://open.spotify.com/user/1149065989)
 
 ---
 
