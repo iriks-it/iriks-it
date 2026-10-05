@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1119](https://github.com/matter-js/matterjs-server/issues/1119) in [matter-js/matterjs-server](https://github.com/matter-js/matterjs-server)
-2. 🚀 Published release [v0.5.8](https://github.com/IriksIT/CarsHub-Composer-Connector/releases/tag/v0.5.8) in [IriksIT/CarsHub-Composer-Connector](https://github.com/IriksIT/CarsHub-Composer-Connector)
+1. 🚀 Published release [v0.5.9](https://github.com/IriksIT/CarsHub-Composer-Connector/releases/tag/v0.5.9) in [IriksIT/CarsHub-Composer-Connector](https://github.com/IriksIT/CarsHub-Composer-Connector)
+2. ❗ Opened issue [#1119](https://github.com/matter-js/matterjs-server/issues/1119) in [matter-js/matterjs-server](https://github.com/matter-js/matterjs-server)
 <!--END_SECTION:activity-->
   
 </details>
