@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.13](https://github.com/IriksIT/CarsHub-Composer-Connector/releases/tag/v0.5.13) in [IriksIT/CarsHub-Composer-Connector](https://github.com/IriksIT/CarsHub-Composer-Connector)
-2. 🚀 Published release [v0.5.12](https://github.com/IriksIT/CarsHub-Composer-Connector/releases/tag/v0.5.12) in [IriksIT/CarsHub-Composer-Connector](https://github.com/IriksIT/CarsHub-Composer-Connector)
+1. 🚀 Published release [v0.5.14](https://github.com/IriksIT/CarsHub-Composer-Connector/releases/tag/v0.5.14) in [IriksIT/CarsHub-Composer-Connector](https://github.com/IriksIT/CarsHub-Composer-Connector)
+2. 🚀 Published release [v0.5.13](https://github.com/IriksIT/CarsHub-Composer-Connector/releases/tag/v0.5.13) in [IriksIT/CarsHub-Composer-Connector](https://github.com/IriksIT/CarsHub-Composer-Connector)
 <!--END_SECTION:activity-->
   
 </details>
