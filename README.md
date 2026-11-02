@@ -83,8 +83,8 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IriksIT/Laravel-Demo-1/pull/1) in [IriksIT/Laravel-Demo-1](https://github.com/IriksIT/Laravel-Demo-1)
-2. 🎉 Merged PR [#1](https://github.com/IriksIT/Laravel-Demo-2/pull/1) in [IriksIT/Laravel-Demo-2](https://github.com/IriksIT/Laravel-Demo-2)
+1. 🚀 Published release [v0.5.19](https://github.com/IriksIT/CarsHub-Composer-Connector/releases/tag/v0.5.19) in [IriksIT/CarsHub-Composer-Connector](https://github.com/IriksIT/CarsHub-Composer-Connector)
+2. 🚀 Published release [v0.5.18](https://github.com/IriksIT/CarsHub-Composer-Connector/releases/tag/v0.5.18) in [IriksIT/CarsHub-Composer-Connector](https://github.com/IriksIT/CarsHub-Composer-Connector)
 <!--END_SECTION:activity-->
   
 </details>
